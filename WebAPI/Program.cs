@@ -16,6 +16,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+//proverka
+
 app.UseAuthorization();
 
 app.MapControllers();
